@@ -1,0 +1,13 @@
+baseURL: https://senki.xyz/
+languageCode: en-us
+title: senki
+subtitle: 'Contains traces of opinion'
+theme: henry
+params:
+  authors:
+    - name: "Csaba"
+      url: "/hi"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
