@@ -2,4 +2,3 @@ _drafts
 .hugo_build.lock
 node_modules
 package-lock.json
-public

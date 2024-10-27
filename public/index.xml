@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+
+        <title>senki</title>
+        <link>https://senki.xyz/</link>
+        <description>Recent content - senki</description>
+        
+        <language>en-us</language>
+        
+        
+        
+        
+        <lastBuildDate>Wed, 20 Oct 2021 00:00:00 UTC</lastBuildDate>
+        <atom:link href="https://senki.xyz/index.xml" rel="self" type="application/rss+xml" />
+            <item>
+                <title>👋</title>
+                <link>https://senki.xyz/hi/</link>
+                <description>
+                    &lt;p&gt;Security Enthusiast&lt;br&gt;
+Typophile&lt;br&gt;
+Reading changelogs for a living&lt;br&gt;
+Tech Lead @ &lt;a href=&#34;tectalic.com&#34;&gt;Tectalic&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/senki&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phpc.social/@senki&#34;&gt;Mastodon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/csaba-maulis&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phpc.social/tags/codingforfun&#34;&gt;#codingforfun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://phpc.social/tags/phptrick&#34;&gt;#phptrick&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+                </description>
+                
+                <guid>https://senki.xyz/hi/</guid>
+                
+                <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+            </item>
+        
+    </channel>
+</rss>

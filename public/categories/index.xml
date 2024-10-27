@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+
+        <title>senki - Categories</title>
+        <link>https://senki.xyz/categories/</link>
+        <description>Recent content - senki - Categories</description>
+        
+        <language>en-us</language>
+        
+        
+        
+        
+        
+        <atom:link href="https://senki.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
