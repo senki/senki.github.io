@@ -1,1 +1,1 @@
-# senki.github.io
+# senki.xyz
